@@ -17,9 +17,9 @@
 #import Pyomic
 # -- Project information -----------------------------------------------------
 
-project = 'DouLabRotation_2023'
-copyright = '2023, School of Life Sciences, Westlake University'
-author = 'DBinary'
+project = 'Telemere-length-calculation'
+copyright = '2025, School of Ecology and Environment, Northwestern Polytechnical University'
+author = 'Ra'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
