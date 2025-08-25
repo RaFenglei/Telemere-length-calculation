@@ -1,7 +1,7 @@
-site_name: DouLabRotation Readthedocs
-repo_url: https://github.com/DBinary/DouLabRotation_2023
-site_author: "Lei Hu"
-copyright: "Copyright &copy; 2023, School of Life Sciences, Westlake University"
+site_name: Telemere-length-calculation
+repo_url: https://github.com/RaFenglei/Telemere-length-calculation
+site_author: "Fenglei zhang"
+copyright: "Copyright &copy; 2025, School of Ecology and Environment, Northwestern Polytechnical University"
 
 
 nav:
