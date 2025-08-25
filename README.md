@@ -3,4 +3,4 @@ The repository was used to contain tutorials of telemere length calculation for 
 
 
 ![Northwestern Polytechnical University](./img/log_eng.png)
-![Pandas](./img/Pandas.png)
+![Pandas](./img/Pandas.jpg)
