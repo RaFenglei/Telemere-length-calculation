@@ -35,7 +35,7 @@ plugins:
 theme:
   name: material
   custom_dir: docs/overrides
-  logo: img/westlake.png
+  logo: img/nwpu.png
   favicon: img/favicon.ico
 
   palette:
